@@ -1,0 +1,62 @@
+{
+    "1": {
+        "author_name": "John Doe",
+        "avatar_url": "https://example.com/avatar1.jpg",
+        "main_text": "Today's tip: Incorporating user feedback early in the design process leads to more successful products.",
+        "date": "2021-09-15"
+    },
+    "2": {
+        "author_name": "Jane Smith",
+        "avatar_url": "https://example.com/avatar2.jpg",
+        "main_text": "Design tip of the day: Always consider accessibility and inclusivity when creating product designs.",
+        "date": "2021-09-14"
+    },
+    "3": {
+        "author_name": "Alex Wong",
+        "avatar_url": "https://example.com/avatar3.jpg",
+        "main_text": "Simplicity is key. Focus on creating intuitive user experiences by reducing complexity.",
+        "date": "2021-09-13"
+    },
+    "4": {
+        "author_name": "Sarah Johnson",
+        "avatar_url": "https://example.com/avatar4.jpg",
+        "main_text": "Experiment with interactive prototypes to test different design ideas and gather valuable insights.",
+        "date": "2021-09-12"
+    },
+    "5": {
+        "author_name": "Mark Collins",
+        "avatar_url": "https://example.com/avatar5.jpg",
+        "main_text": "Utilize storytelling in your design process to create engaging and memorable user experiences.",
+        "date": "2021-09-11"
+    },
+    "6": {
+        "author_name": "Emily Rodriguez",
+        "avatar_url": "https://example.com/avatar6.jpg",
+        "main_text": "Collaboration between design and development teams is crucial for successful product design.",
+        "date": "2021-09-10"
+    },
+    "7": {
+        "author_name": "Chris Lee",
+        "avatar_url": "https://example.com/avatar7.jpg",
+        "main_text": "Don't overlook the importance of user testing. It provides valuable insights and helps you identify areas for improvement.",
+        "date": "2021-09-09"
+    },
+    "8": {
+        "author_name": "Eva Martinez",
+        "avatar_url": "https://example.com/avatar8.jpg",
+        "main_text": "Keep up with the latest design trends, but also focus on timeless design principles for long-lasting impact.",
+        "date": "2021-09-08"
+    },
+    "9": {
+        "author_name": "Mike Chen",
+        "avatar_url": "https://example.com/avatar9.jpg",
+        "main_text": "Iterate on your designs based on feedback and data to continuously improve the user experience.",
+        "date": "2021-09-07"
+    },
+    "10": {
+        "author_name": "Lily Wang",
+        "avatar_url": "https://example.com/avatar10.jpg",
+        "main_text": "Pay attention to micro-interactions and animations to delight users and enhance usability.",
+        "date": "2021-09-06"
+    }
+}
